@@ -1,6 +1,4 @@
 num = 3000
-failedattempts=0
-accountlocked=False
 #created a function for Depositing money
 def deposit(amount):
     global num
